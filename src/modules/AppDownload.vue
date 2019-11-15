@@ -2,14 +2,14 @@
   <div class="appDownload_content">
     <div class="top-section">
       <div class="left">
-        <img class="left-img" src='../assets/appDownload/注册图片.png'/>
+        <img class="left-img" src='../assets/appDownload/注册图片.png' alt="注册图片"/>
       </div>
       <div class="right">
         <p>手机浏览器输入pi.app下载移动客户端APP，即刻开启您的NAT之旅。官方邀请码：xxxx</p>
         <p class="attention">（请务必填写此邀请码，找客服验证后入群学习）</p>
         <div class="qrCode">
-          <img class="tabPane1_content-item" src='../assets/appDownload/苹果手机.png'/>
-          <img class="tabPane1_content-item" src='../assets/appDownload/安卓手机.png'/>
+          <img class="tabPane1_content-item" src='../assets/appDownload/苹果手机.png' alt="苹果手机"/>
+          <img class="tabPane1_content-item" src='../assets/appDownload/安卓手机.png' alt="安卓手机"/>
         </div>
       </div>
     </div>
@@ -18,8 +18,8 @@
       <h5 class="title">联系我们</h5>
       <p class="desc attention">请填写正确的邀请码，验证后入群学习NAT相关知识，获取百倍收益</p>
       <div class="qrCode">
-        <img class="tabPane1_content-item" src='../assets/appDownload/微信二维码1.png'/>
-        <img class="tabPane1_content-item" src='../assets/appDownload/微信二维码2.png'/>
+        <img class="tabPane1_content-item" src='../assets/appDownload/微信二维码1.png' alt="微信二维码1"/>
+        <img class="tabPane1_content-item" src='../assets/appDownload/微信二维码2.png' alt="微信二维码2"/>
       </div>
     </div>
   </div>

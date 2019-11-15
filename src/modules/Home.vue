@@ -1,12 +1,12 @@
 <template>
 <div class="home_content">
   <div class="row-1">
-    <img class="row-1-item" src='../assets/home/首页标题.jpg'/>
-    <div class="row-1-item audio"><a href="https://v.qq.com/x/page/l08052uardu.html" target="_blank">视频播放</a></div>
-    <img class="row-1-item" src='../assets/home/现有的数字资产价值.jpg'/>
+    <img class="row-1-item" src='../assets/home/首页标题.jpg' alt="首页标题"/>
+    <div class="row-1-item audio"><a href="https://v.qq.com/x/page/l08052uardu.html" target="_blank" title="点击观看视频">视频播放</a></div>
+    <img class="row-1-item" src='../assets/home/现有的数字资产价值.jpg' alt="现有的数字资产价值"/>
   </div>
   <div class="row-2">
-    <img class="row-2-item" src='../assets/home/时间轴.png'/>
+    <img class="row-2-item" src='../assets/home/时间轴.png' alt="时间轴"/>
   </div>
   <Divider ></Divider>
   <div>
