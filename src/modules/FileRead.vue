@@ -1,6 +1,6 @@
 <template>
   <div class="fileRead_content">
-    敬请期待。
+
   </div>
 </template>
 <script>
